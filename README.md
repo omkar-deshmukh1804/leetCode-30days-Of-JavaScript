@@ -9,6 +9,10 @@
 
 [Leet Code #2635](https://leetcode.com/problems/apply-transform-over-each-element-in-array/?envType=study-plan-v2&envId=30-days-of-javascript)
 
+[Leet Code #2636](https://leetcode.com/problems/filter-elements-from-array/description/?envType=study-plan-v2&envId=30-days-of-javascript)
+
+[Leet Code #2626](https://leetcode.com/problems/array-reduce-transformation/?envType=study-plan-v2&envId=30-days-of-javascript)
+
 
 ## Run Locally
 
